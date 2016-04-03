@@ -1,22 +1,22 @@
 {
-  "name": "reveal.js",
+  "name": "prolific",
   "version": "3.2.0",
-  "description": "The HTML Presentation Framework",
-  "homepage": "http://lab.hakim.se/reveal-js",
-  "subdomain": "revealjs",
+  "description": "Word Focus Chapel",
+  "homepage": "https://prolific.herokuapp.com/",
+  "subdomain": "prolific",
   "main": "js/reveal.js",
   "scripts": {
     "test": "grunt test",
     "start": "grunt serve"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "Rawneed",
+    "email": "rawneedinc@yahoo.com",
+    "web": "https://prolific.herokuapp.com/"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "https://github.com/wordfocuschapel/prolofic.git"
   },
   "engines": {
     "node": "~4.1.1"
